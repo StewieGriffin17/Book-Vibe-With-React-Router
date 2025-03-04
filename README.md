@@ -36,14 +36,14 @@ Book Vibe is a simple book listing website where users can browse books, check t
 ## Screenshots
 
 ### Homepage
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](src/assets/screenshots/homepage.png)
 
 ### Book Details Page
-![Book Details](assets/screenshots/book-details.png)
+![Book Details](src/assets/screenshots/book-details.png)
 
 ### Profile Page
-![Profile](assets/screenshots/profile.png)
+![Profile](src/assets/screenshots/profile.png)
 
 
 ## License
-This project is licensed under the MIT License.
+@Anowarul Asif(Immortal)
