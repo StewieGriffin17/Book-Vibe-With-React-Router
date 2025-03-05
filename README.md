@@ -46,4 +46,4 @@ Book Vibe is a simple book listing website where users can browse books, check t
 
 
 ## License
-@Anowarul Asif(Immortal)
+@Anowarul Asif (Immortal)
