@@ -18,7 +18,7 @@ Book Vibe is a simple book listing website where users can browse books, check t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/book-vibe.git
+   git clone https://github.com/StewieGriffin17/Book-Vibe-With-React-Router.git
    ```
 2. Navigate to the project directory:
    ```sh
